@@ -1,7 +1,8 @@
 
 # Sean Nguyen's Portfolio
 
-I am a Computer Science major attending California State University Fullerton (snguyen672@csu.fullerton.edu) as a first generation college student for my family. I hope to graduate soon by 2027.
+I am a Computer Science major attending California State University Fullerton (snguyen672@csu.fullerton.edu) as a first generation college student for my family. I hope to pursue cybersecurity and create new software.
+My github link is provided here: https://github.com/SNguyen267
 
 ## Favorite CPSC120L labs
 
